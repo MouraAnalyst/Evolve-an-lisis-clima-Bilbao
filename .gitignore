@@ -1,0 +1,20 @@
+# Ignorar absolutamente todo
+*
+*/
+
+# Permitir solo estos archivos específicos
+!.gitignore
+!README.md
+!Pipfile
+!Pipfile.lock
+
+# Asegurarse de que estos archivos y carpetas están ignorados
+.env
+*.pbix
+*.docx
+*.pdf
+*.deb
+src/
+"Power BI"/
+notebooks/
+pyrightconfig.json 
