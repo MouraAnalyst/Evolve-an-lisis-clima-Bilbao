@@ -2,11 +2,17 @@
 *
 */
 
-# Permitir solo estos archivos específicos
+# Permitir archivos específicos
 !.gitignore
 !README.md
 !Pipfile
 !Pipfile.lock
+
+# Permitir imágenes
+!*.png
+!*.jpg
+!*.jpeg
+!*.gif
 
 # Asegurarse de que estos archivos y carpetas están ignorados
 .env
@@ -17,4 +23,5 @@
 src/
 "Power BI"/
 notebooks/
-pyrightconfig.json 
+data/
+pyrightconfig.json
