@@ -71,7 +71,19 @@ El dashboard en Power BI incluye:
 - Correlaciones entre variables
 - KPIs climáticos clave
 
-<iframe title="Análisis Clima Bilbao - 50 años" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=313c38e9-2057-4699-bc98-62a095a6f4e4&autoAuth=true&ctid=16a844d4-a6fb-4446-8873-1b1e40876fb5" frameborder="0" allowFullScreen="true"></iframe>
+🔗 **[Ver Informe en Power BI](https://app.powerbi.com/reportEmbed?reportId=313c38e9-2057-4699-bc98-62a095a6f4e4&autoAuth=true&ctid=16a844d4-a6fb-4446-8873-1b1e40876fb5)**
+
+### Portada
+![Página 1](https://github.com/MouraAnalyst/Evolve-an-lisis-clima-Bilbao/blob/main/Pagina%201.png)
+
+### Resumen General
+![Página 2](https://github.com/MouraAnalyst/Evolve-an-lisis-clima-Bilbao/blob/main/Pagina%202.png)
+
+### Tendencias y Correlaciones
+![Página 3](https://github.com/MouraAnalyst/Evolve-an-lisis-clima-Bilbao/blob/main/Pagina%203.png)
+
+### Análisis Estacional
+![Página 4](https://github.com/MouraAnalyst/Evolve-an-lisis-clima-Bilbao/blob/main/Pagina%204.png)
 
 ## 🔍 Conclusiones
 - Los datos muestran una clara tendencia al calentamiento en Bilbao
@@ -106,8 +118,9 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cambi
 ## 📄 Licencia
 Este proyecto está bajo la licencia MIT.
 
-## ✉️ Contacto
-[Tu información de contacto]
+## 📬 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alex-moura-analyst/)
 
 ---
 ⭐️ Si este proyecto te resulta útil, ¡no dudes en darle una estrella!
